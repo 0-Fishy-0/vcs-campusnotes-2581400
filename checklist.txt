@@ -3,5 +3,5 @@ Study Checklist
 [ ] Revise DSA concepts
 [ ] Practice Maths problems
 [ ] Review VCS notes
-[ ] Check pending assignments
+[ ] Review and complete pending assignments
 [ ] Follow the weekly study plan
